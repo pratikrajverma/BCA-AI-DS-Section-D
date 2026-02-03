@@ -1,0 +1,25 @@
+  #todoApp {
+      border: 2px solid black;
+      height: 400px;
+      width: 400px;
+      padding: 10px;
+  }
+
+  #inputBox {
+      height: 30px;
+      width: 270px;
+  }
+
+  button{
+    height: 30px;
+    width: 100px;
+  }
+
+  #list{
+    margin:30px 10px 10px 10px;
+  }
+
+  .eachList{
+    display: flex;
+    gap: 10px;
+  }
